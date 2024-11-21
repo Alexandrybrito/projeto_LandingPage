@@ -128,23 +128,6 @@ header .navbar a:hover {
     width: 100%;
   }
 
-  /*
-.button {
-    margin-top: 1rem;
-    padding: .7rem 3rem;
-    display: inline-block;
-    border-radius: 5rem;
-    background: var(--gradient);
-    color: var(--color6);
-    cursor: pointer;
-    font-size: 1.7rem;
-}
-
-.button {
-    transform: scale(1.1);
-}
-*/
-
 .cta-button {
     padding: 10px 20px;
     background-color: #e63946;
